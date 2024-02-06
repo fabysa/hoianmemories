@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hoianmemories/static/css/main.54049c52.css",
+    "main.js": "/hoianmemories/static/js/main.d89881fe.js",
+    "static/js/787.d4aba7ab.chunk.js": "/hoianmemories/static/js/787.d4aba7ab.chunk.js",
+    "static/media/ha1.jpg": "/hoianmemories/static/media/ha1.f4fab2d452437ba16037.jpg",
+    "static/media/Facebook_Logo.png": "/hoianmemories/static/media/Facebook_Logo.c278992ab0aa7d7328f3.png",
+    "static/media/zaloLogo.png": "/hoianmemories/static/media/zaloLogo.d2a57fc61d7b674a1385.png",
+    "static/media/logo.svg": "/hoianmemories/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hoianmemories/index.html",
+    "main.54049c52.css.map": "/hoianmemories/static/css/main.54049c52.css.map",
+    "main.d89881fe.js.map": "/hoianmemories/static/js/main.d89881fe.js.map",
+    "787.d4aba7ab.chunk.js.map": "/hoianmemories/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54049c52.css",
+    "static/js/main.d89881fe.js"
+  ]
+}
